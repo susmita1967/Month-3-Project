@@ -1,5 +1,5 @@
 # Month-3-Project
-Great! Writing a comprehensive README is essential for helping others understand and potentially contribute to your project. Here's a template to get you started:
+
 
 ---
 
